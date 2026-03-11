@@ -9,5 +9,8 @@ and write a test case in  test_operation.py
 
 then push to github.
 
+now using github action to run the entire unit test.
+created a .github\ workflow floder, within that unittest.py for action
+
 
 
